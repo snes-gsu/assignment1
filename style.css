@@ -1,0 +1,166 @@
+body 
+ {
+/* background-color: rgb(170, 119, 53); */
+/* background: linear-gradient(to bottom, #333300 0%, #999966 100%); */
+background-image: url("update.jpg");
+background-size: 100%;
+}
+
+.hobbies
+{
+    color:rgb(44, 42, 39);
+    margin-top: 50px;
+    text-align: center;
+}
+
+img
+{
+    height:300px;
+    width:250px;
+    border-radius: 50%;
+}
+#image
+{
+    margin-top: 20px;
+    text-align: center;
+}
+#image .hobbies
+{
+    margin-top:40px;
+    color:silver;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: black;
+   
+}
+#image a{
+    color: white;
+}
+#image a:hover{
+    background-color: rgb(53, 52, 50);
+}
+
+#image .index
+{
+  float: left;
+
+  color:silver;
+  margin-right: 20px;
+  
+}
+#image .about
+{
+  float: left;
+
+  color:silver;
+}
+
+#image p
+{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-size: 25px;
+    color:rgb(66, 63, 57);
+}
+#image h3
+{
+   margin-right: 100px; 
+  color: silver;
+  text-align: center
+}
+#image .educ
+{
+    margin-left: 50px;
+    margin-right: 50px;
+    color:snow;
+    
+}
+#image .compsci
+{
+    color: snow;
+}
+
+
+#image .interests
+{
+    margin-right: 50px;
+    margin-top: 100px;
+    color:white;
+}
+
+#assign table{
+    width:100%;
+    height: 100px;
+    margin-top: 50px;
+    text-align: center;
+}
+#assign a
+{
+    color:white
+}
+#about
+{
+    background-color:rgb(170, 119, 53);
+}
+#about h3{
+    text-align: center;
+    font-size: 40px;
+}
+#about li{
+text-align: center;
+font-size: 30px;
+color: snow;
+}
+#interests body
+{
+    background: linear-gradient(black,rgb(202, 151, 88));
+    
+    text-align: center;
+   
+}
+#interests li, h3
+{
+    color: white;
+    text-align: center;
+    font-size: 36px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+#interests a{
+    color: white;
+}
+#bio
+{
+    background-image: url("update.jpg");
+}
+#bio p,h4
+{
+    color: snow;
+    font-size: 34px;
+    text-align: center;
+}
+#classwork {
+    background-image: url("update.jpg");
+}
+#homework 
+{
+    background-image: url("update.jpg");
+}
+#proj 
+{
+    background-image: url("update.jpg");
+}
+#classwork h2{
+    color: snow;
+}
+#homework h3
+{
+color: snow;
+}
+#proj h3{
+    color:snow;
+}
+#homework a{
+    color: snow;
+}
+#bio a{
+color: snow;
+}
